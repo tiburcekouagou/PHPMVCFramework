@@ -1,0 +1,15 @@
+{
+    "name": "tiburce.kouagou/phpmvc-framework",
+    "authors": [
+        {
+            "name": "kouagoutiburce",
+            "email": "kouagoutiburce@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}

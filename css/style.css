@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(163, 27, 27);
+  padding: 10px;
+  height: 100px;
+  align-items: center;
+}
+.nav {
+  display: flex;
+  gap: 25px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+a:hover {
+  color: rgb(156, 156, 156);
+}
